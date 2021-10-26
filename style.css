@@ -28,7 +28,7 @@
 }
 
 *::selection {
-    background: #fff0f0;
+    background: #2986cc;
 }
 
 body {
@@ -40,7 +40,7 @@ body {
     min-width: 320px;
     position: relative;
     overflow-x: hidden;
-    background: linear-gradient(to right, #fff0f0 0%, #fff0f0 60%, white 60%);
+    background: linear-gradient(to right, #cfe2f3 0%, #cfe2f3 60%, white 60%);
     background-position: center;
 }
 

@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff5e67f1-8f4d-4652-b855-10e3579914c6" name="Changes" comment="">
+    <list default="true" id="ff5e67f1-8f4d-4652-b855-10e3579914c6" name="Changes" comment="Made Slight Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/quote.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/quote.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scroll-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/scroll-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/serv-icon-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/serv-icon-1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/serv-icon-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/serv-icon-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/serv-icon-3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/serv-icon-3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/serv-icon-4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/serv-icon-4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/signature.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/signature.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -39,11 +46,37 @@
       <updated>1634930172850</updated>
       <workItem from="1634930175485" duration="271000" />
       <workItem from="1634945330271" duration="437000" />
-      <workItem from="1634969424456" duration="1494000" />
+      <workItem from="1634969424456" duration="2336000" />
+      <workItem from="1635134139887" duration="505000" />
+      <workItem from="1635209882341" duration="5147000" />
     </task>
+    <task id="LOCAL-00001" summary="Made Slight Changes">
+      <created>1634970958257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634970958258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made Slight Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Slight Changes" />
   </component>
 </project>
