@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff5e67f1-8f4d-4652-b855-10e3579914c6" name="Changes" comment="Made Slight Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/quote.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/quote.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/scroll-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/scroll-icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/serv-icon-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/serv-icon-1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/serv-icon-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/serv-icon-2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/serv-icon-3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/serv-icon-3.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/serv-icon-4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/serv-icon-4.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/signature.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/signature.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +15,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1zsI3da3PcL15cH2nAcnmTOQZT8" />
   <component name="ProjectViewState">
@@ -49,6 +49,7 @@
       <workItem from="1634969424456" duration="2336000" />
       <workItem from="1635134139887" duration="505000" />
       <workItem from="1635209882341" duration="5147000" />
+      <workItem from="1635482615784" duration="4120000" />
     </task>
     <task id="LOCAL-00001" summary="Made Slight Changes">
       <created>1634970958257</created>
