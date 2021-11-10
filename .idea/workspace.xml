@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff5e67f1-8f4d-4652-b855-10e3579914c6" name="Changes" comment="Made Slight Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bb84-qkd.html" beforeDir="false" afterPath="$PROJECT_DIR$/bb84-qkd.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
       <workItem from="1636515798785" duration="659000" />
       <workItem from="1636516534987" duration="206000" />
       <workItem from="1636516867308" duration="227000" />
-      <workItem from="1636571647417" duration="299000" />
+      <workItem from="1636571647417" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="Made Slight Changes">
       <created>1634970958257</created>
