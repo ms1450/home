@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff5e67f1-8f4d-4652-b855-10e3579914c6" name="Changes" comment="Made Slight Changes">
+      <change afterPath="$PROJECT_DIR$/bb84-qkd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/BB84 - Lightning Talk.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -33,8 +35,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/uploads" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\GitHub\mehulsen.github.io\uploads" />
+      <recent name="D:\Program Files\GitHub\mehulsen.github.io" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,6 +58,8 @@
       <workItem from="1635134139887" duration="505000" />
       <workItem from="1635209882341" duration="5147000" />
       <workItem from="1635482615784" duration="4120000" />
+      <workItem from="1635728650325" duration="13000" />
+      <workItem from="1636513209864" duration="1000000" />
     </task>
     <task id="LOCAL-00001" summary="Made Slight Changes">
       <created>1634970958257</created>
