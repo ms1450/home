@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff5e67f1-8f4d-4652-b855-10e3579914c6" name="Changes" comment="Made Slight Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bb84-qkd.html" beforeDir="false" afterPath="$PROJECT_DIR$/bb84-qkd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fakelogonscreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/fakelogonscreen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whatsappweb.html" beforeDir="false" afterPath="$PROJECT_DIR$/whatsappweb.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +66,7 @@
       <workItem from="1636516867308" duration="227000" />
       <workItem from="1636571647417" duration="1088000" />
       <workItem from="1637570235466" duration="836000" />
+      <workItem from="1637571213568" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="Made Slight Changes">
       <created>1634970958257</created>
